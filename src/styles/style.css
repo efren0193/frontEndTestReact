@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bg-dark-nav{
+  background-color: #0a0a0a;
+}
+.fix-modal-title{
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+.custom-alert{
+  position: absolute;
+  top: 0;
+  right:0;
+  width: 100%;
+  height: 3em;
+  background-color: rgba(43, 135, 172, 0.5);
+}
